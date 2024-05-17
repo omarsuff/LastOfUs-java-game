@@ -9,9 +9,7 @@ This project is a tribute to "The Last of Us," created as part of an Object-Orie
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 "The Last of Us" captivated gamers worldwide with its emotional storytelling and intense gameplay. This project aims to reflect some of that essence while demonstrating the principles of object-oriented design and programming.
